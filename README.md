@@ -1,6 +1,8 @@
 # Byhand :hand:
 
+- [Byhand:hand:](#byhandhand)
 - [Introduction](#introduction)
+- [Status](#status)
 - [Installation](#installation)
   - [Shiv package (recommended)](#shiv-package-recommended)
   - [With pip:](#with-pip)
