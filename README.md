@@ -1,4 +1,4 @@
-# Byhand:hand:
+# Byhand :hand:
 
 - [Introduction](#introduction)
 - [Installation](#installation)
