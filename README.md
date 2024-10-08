@@ -56,15 +56,19 @@ You can pass arguments to specify yaml files to read config from, and the config
 E.g. Given this script:
 
 ```
-$ cat config.bh
+$ cat - > manualprocess.bh
 #!/usr/bin/env byhand
-P Config read with preprocessor: {{serviceConfig.services.UserService.http_location}}
+P Config read with preprocessor: {{serviceConfig.location}}
 ```
-
-If we execute it with a serviceConfig.yaml file from unified_config:
+And this serviceConfig.yaml:
 ```
-$ ./config.bh -c ~/src/unified_config/environment/novum/base/common/serviceConfig.yaml
-Config read with preprocessor: http://user-service
+serviceConfig:
+  location: http://some.url
+```
+If we execute it:
+```
+$ ./manualprocess.bh -c serviceConfig.yaml
+Config read with preprocessor: http://some.url
 ```
 
 # Build
