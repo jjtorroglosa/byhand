@@ -21,7 +21,7 @@ defined in natural language and eventually develop them into fully automated scr
 # Status
 
  **Experimental** - This is a proof-of-concept prototype. While functional and used
-by some colleagues, it is not polished and intended for production issues.
+by some colleagues, it is not polished and intended for production use.
 
 # Installation
 
