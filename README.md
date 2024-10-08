@@ -1,6 +1,5 @@
 # Byhand :hand:
 
-- [Byhand:hand:](#byhandhand)
 - [Introduction](#introduction)
 - [Status](#status)
 - [Installation](#installation)
