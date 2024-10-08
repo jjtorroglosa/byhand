@@ -1,0 +1,7 @@
+clipboard==0.0.4
+configobj==5.0.8
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+pyperclip==1.9.0
+PyYAML==6.0.2
+six==1.16.0

@@ -1,0 +1,9 @@
+#!/usr/bin/env bh
+P this is a config variable $config.var
+P Hello
+M This is a manual task
+$ date
+$ date >date
+$ date >date
+P The date read is $date
+O https://google.com
