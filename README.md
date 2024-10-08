@@ -10,7 +10,7 @@
 
 # Introduction
 
-Byhand:hand: is an interpreted minilanguage written in Python that enables you to
+Byhand :hand: is an interpreted minilanguage written in Python that enables you to
 specify processes that requires some manual (non automated) tasks. These tasks can
 gradually evolve into automated tasks as people write
 scripts to automate specific steps. This allows you to start with a list of manual tasks
